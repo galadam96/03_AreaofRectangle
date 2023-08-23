@@ -1,0 +1,5 @@
+﻿  AreaofRectangle.c
+E:\Munkák\Programming\C\2023\AreaofRectangle\AreaofRectangle.c(15,10): warning C4476: 'scanf_s' : unknown type field character '.' in format specifier
+E:\Munkák\Programming\C\2023\AreaofRectangle\AreaofRectangle.c(15,31): warning C4474: 'scanf_s' : too many arguments passed for format string
+E:\Munkák\Programming\C\2023\AreaofRectangle\AreaofRectangle.c(15,31): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  AreaofRectangle.vcxproj -> E:\Munkák\Programming\C\2023\AreaofRectangle\x64\Debug\AreaofRectangle.exe
